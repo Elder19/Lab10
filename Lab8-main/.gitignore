@@ -1,0 +1,87 @@
+# ============================================
+# Node.js / React / Vite base
+# ============================================
+
+# Dependencias
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Archivos de build (producción)
+dist/
+build/
+
+# Archivos temporales
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Archivos de entorno y configuración local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Configuración del editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Archivos del sistema (Windows / macOS / Linux)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Archivos de caché
+.cache/
+.vite/
+.eslintcache
+*.pid
+*.seed
+*.pid.lock
+
+# ============================================
+# Carpetas específicas de tu proyecto
+# ============================================
+
+# Laboratorios compilados o con dependencias locales
+Lab8-main/node_modules/
+Lab8-main/dist/
+Lab8-main/build/
+
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# Si guardas los productos de tu API localmente
+Lab8-main/*.json
+Lab8-main/.env
+
+# ============================================
+# Archivos de sistema y temporales
+# ============================================
+
+# Backup o archivos temporales
+*.tmp
+*.temp
+*.old
+*.orig
+*.rej
+*~
+
+# ============================================
+# Git / control de versiones
+# ============================================
+
+# Ignorar merges y locks
+*.merge
+*.lock
+*.lockb
