@@ -33,5 +33,347 @@
       "createdAt": "2025-10-03T23:37:53.994Z",
       "updatedAt": "2025-10-03T23:37:53.994Z"
     }
+    ,    {
+      "id": "p-0010",
+      "name": "Mouse Inalámbrico RGB",
+      "sku": "MOUSE-RGB-01",
+      "description": "Mouse ergonómico con iluminación RGB configurable.",
+      "price": 25.99,
+      "stock": 30,
+      "category": "Periféricos",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0011",
+      "name": "Monitor 27'' 2K",
+      "sku": "MON-27-2K",
+      "description": "Pantalla QHD 2560x1440, panel IPS, tasa de refresco 144Hz.",
+      "price": 299.99,
+      "stock": 12,
+      "category": "Monitores",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0012",
+      "name": "Teclado Mecánico Retroiluminado",
+      "sku": "TECLADO-MECH-02",
+      "description": "Teclado mecánico con switches azules y retroiluminación LED.",
+      "price": 49.99,
+      "stock": 20,
+      "category": "Periféricos",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0013",
+      "name": "Router WiFi 6 AX3000",
+      "sku": "ROUTER-AX3000",
+      "description": "Router de doble banda WiFi 6 con cobertura extendida y 3000 Mbps.",
+      "price": 119.99,
+      "stock": 15,
+      "category": "Redes",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0014",
+      "name": "Disco Duro Externo 2TB",
+      "sku": "HDD-EXT-2TB",
+      "description": "Disco duro externo USB 3.1 con carcasa metálica y diseño compacto.",
+      "price": 69.99,
+      "stock": 25,
+      "category": "Almacenamiento",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0015",
+      "name": "Impresora Multifuncional WiFi",
+      "sku": "IMP-WIFI-01",
+      "description": "Impresora con escáner, copiadora y conectividad inalámbrica.",
+      "price": 159.00,
+      "stock": 8,
+      "category": "Oficina",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0016",
+      "name": "Smartwatch Deportivo",
+      "sku": "SWATCH-SPORT-1",
+      "description": "Reloj inteligente con monitor cardíaco, oxígeno y GPS integrado.",
+      "price": 99.99,
+      "stock": 22,
+      "category": "Wearables",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0017",
+      "name": "Tablet Android 10'' 64GB",
+      "sku": "TAB-10-64",
+      "description": "Pantalla de 10 pulgadas, 4GB RAM, 64GB de almacenamiento.",
+      "price": 179.99,
+      "stock": 14,
+      "category": "Tablets",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0018",
+      "name": "Auriculares Bluetooth ANC",
+      "sku": "HEAD-ANC-02",
+      "description": "Auriculares inalámbricos con cancelación activa de ruido.",
+      "price": 139.00,
+      "stock": 17,
+      "category": "Audio",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0019",
+      "name": "Parlante Portátil 20W",
+      "sku": "SPEAKER-20W",
+      "description": "Bocina Bluetooth resistente al agua con 12h de batería.",
+      "price": 49.99,
+      "stock": 28,
+      "category": "Audio",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0020",
+      "name": "Cámara Web Full HD 1080p",
+      "sku": "CAM-HD-01",
+      "description": "Cámara web con micrófono estéreo y autoenfoque.",
+      "price": 39.99,
+      "stock": 19,
+      "category": "Accesorios",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0021",
+      "name": "Laptop Ultrabook 14''",
+      "sku": "ULTRA-14",
+      "description": "Laptop ligera con procesador i7, SSD 512GB, 16GB RAM.",
+      "price": 999.99,
+      "stock": 6,
+      "category": "Computadoras",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0022",
+      "name": "Proyector LED 1080p",
+      "sku": "PROJ-1080",
+      "description": "Proyector portátil con entrada HDMI y WiFi.",
+      "price": 199.00,
+      "stock": 10,
+      "category": "Video",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0023",
+      "name": "Silla Gamer Reclinable",
+      "sku": "CHAIR-GAMER-1",
+      "description": "Silla ergonómica de cuero sintético con soporte lumbar.",
+      "price": 189.99,
+      "stock": 9,
+      "category": "Mobiliario",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0024",
+      "name": "Micrófono USB Condensador",
+      "sku": "MIC-USB-01",
+      "description": "Micrófono para streaming y grabaciones, incluye trípode.",
+      "price": 69.99,
+      "stock": 15,
+      "category": "Audio",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0025",
+      "name": "SSD Externo 1TB",
+      "sku": "SSD-EXT-1TB",
+      "description": "Unidad SSD externa con conexión USB-C de alta velocidad.",
+      "price": 119.99,
+      "stock": 12,
+      "category": "Almacenamiento",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0026",
+      "name": "Control para Consola",
+      "sku": "CTRL-GAME-02",
+      "description": "Control inalámbrico compatible con PC y consolas modernas.",
+      "price": 59.99,
+      "stock": 20,
+      "category": "Gaming",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0027",
+      "name": "Tarjeta Gráfica RTX 4070",
+      "sku": "GPU-4070",
+      "description": "GPU NVIDIA RTX 4070 con 12GB GDDR6X, alto rendimiento.",
+      "price": 699.00,
+      "stock": 5,
+      "category": "Componentes",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0028",
+      "name": "Memoria RAM 16GB DDR5",
+      "sku": "RAM-DDR5-16",
+      "description": "Módulo de memoria DDR5 de 16GB a 5600MHz.",
+      "price": 89.00,
+      "stock": 25,
+      "category": "Componentes",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0029",
+      "name": "Fuente de Poder 750W 80+ Gold",
+      "sku": "PSU-750G",
+      "description": "Fuente de poder modular certificada 80 Plus Gold.",
+      "price": 119.00,
+      "stock": 8,
+      "category": "Componentes",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0030",
+      "name": "Ventilador RGB 120mm",
+      "sku": "FAN-RGB-120",
+      "description": "Ventilador para gabinete con iluminación RGB y control PWM.",
+      "price": 14.99,
+      "stock": 40,
+      "category": "Refrigeración",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0031",
+      "name": "Cable HDMI 2.1 2m",
+      "sku": "HDMI-21-2M",
+      "description": "Cable HDMI Ultra High Speed compatible con 8K a 60Hz.",
+      "price": 12.50,
+      "stock": 50,
+      "category": "Accesorios",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0032",
+      "name": "Hub USB-C 7 en 1",
+      "sku": "HUB-USBC-7",
+      "description": "Adaptador con puertos HDMI, USB 3.0, SD, Ethernet y PD.",
+      "price": 45.00,
+      "stock": 18,
+      "category": "Accesorios",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0033",
+      "name": "Soporte para Monitor Ajustable",
+      "sku": "STAND-MON-01",
+      "description": "Soporte metálico ajustable con base giratoria.",
+      "price": 39.99,
+      "stock": 14,
+      "category": "Mobiliario",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0034",
+      "name": "Cargador Rápido 65W USB-C",
+      "sku": "CHARGER-65W",
+      "description": "Cargador PD GaN compacto con doble puerto USB-C.",
+      "price": 34.99,
+      "stock": 30,
+      "category": "Energía",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0035",
+      "name": "Batería Portátil 20000mAh",
+      "sku": "POWERBANK-20K",
+      "description": "Batería externa con carga rápida y doble salida USB.",
+      "price": 49.00,
+      "stock": 25,
+      "category": "Energía",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0036",
+      "name": "Cámara de Seguridad IP",
+      "sku": "CAM-IP-01",
+      "description": "Cámara WiFi con visión nocturna y detección de movimiento.",
+      "price": 79.99,
+      "stock": 16,
+      "category": "Seguridad",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0037",
+      "name": "Kit de Iluminación LED Studio",
+      "sku": "LED-STUDIO-02",
+      "description": "Luces LED regulables para fotografía y video profesional.",
+      "price": 129.99,
+      "stock": 9,
+      "category": "Fotografía",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0038",
+      "name": "Mochila para Laptop 15''",
+      "sku": "BAG-LAPTOP-15",
+      "description": "Mochila resistente al agua con compartimento acolchado.",
+      "price": 45.99,
+      "stock": 20,
+      "category": "Accesorios",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0039",
+      "name": "Lámpara LED Escritorio",
+      "sku": "LAMP-DESK-01",
+      "description": "Lámpara de escritorio con brillo regulable y carga inalámbrica.",
+      "price": 39.00,
+      "stock": 18,
+      "category": "Oficina",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    },
+    {
+      "id": "p-0040",
+      "name": "Adaptador Bluetooth 5.0 USB",
+      "sku": "BT-USB-5",
+      "description": "Adaptador USB para conectar dispositivos Bluetooth a PC.",
+      "price": 15.00,
+      "stock": 35,
+      "category": "Accesorios",
+      "createdAt": "2025-10-10T11:00:00.000Z",
+      "updatedAt": "2025-10-10T11:00:00.000Z"
+    }
+
   ]
 }
