@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1a0f9b2e-3c2d-4f9a-9d2a-000000000001",
+      "username": "admin",
+      "email": "admin@tec.cr",
+      "password": "admin123", 
+      "role": "admin",
+      "createdAt": "2025-10-01T18:00:00.000Z",
+      "updatedAt": "2025-10-01T18:00:00.000Z"
+    },
+    {
+      "id": "1a0f9b2e-3c2d-4f9a-9d2a-000000000002",
+      "username": "editor",
+      "email": "editor@tec.cr",
+      "password": "editor123",
+      "role": "editor",
+      "createdAt": "2025-10-01T18:00:00.000Z",
+      "updatedAt": "2025-10-01T18:00:00.000Z"
+    },
+    {
+      "id": "1a0f9b2e-3c2d-4f9a-9d2a-000000000003",
+      "username": "user",
+      "email": "user@tec.cr",
+      "password": "user123",
+      "role": "user",
+      "createdAt": "2025-10-01T18:00:00.000Z",
+      "updatedAt": "2025-10-01T18:00:00.000Z"
+    }
+  ]
+}

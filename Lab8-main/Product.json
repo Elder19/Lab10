@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "b1c2d3e4-0004-4a5b-9cde-000000000004",
+      "name": "SSD NVMe 1TB",
+      "sku": "SSD-1TB-NVME",
+      "description": "Unidad de estado sólido NVMe, 1TB, lectura 3500 MB/s.",
+      "price": 89.99,
+      "stock": 7,
+      "category": "Almacenamiento",
+      "createdAt": "2025-09-28T11:45:00.000Z",
+      "updatedAt": "2025-09-28T11:45:00.000Z"
+    },
+    {
+      "id": "b1c2d3e4-0005-4a5b-9cde-000000000005",
+      "name": "Auriculares Gamer AG-7",
+      "sku": "AG-7",
+      "description": "Auriculares con micrófono, sonido envolvente, con cancelación de ruido.",
+      "price": 59,
+      "stock": 18,
+      "category": "Audio",
+      "createdAt": "2025-09-29T08:20:00.000Z",
+      "updatedAt": "2025-09-29T08:20:00.000Z"
+    },
+    {
+      "id": "fda60f0b-8989-4ac2-808d-80b871df04a0",
+      "name": "Laptop Gaming",
+      "sku": "SKU-12345",
+      "description": "Laptop potente para juegos",
+      "price": 1500,
+      "stock": 10,
+      "category": "Electrónica",
+      "createdAt": "2025-10-03T23:37:53.994Z",
+      "updatedAt": "2025-10-03T23:37:53.994Z"
+    }
+  ]
+}
